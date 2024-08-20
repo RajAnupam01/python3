@@ -1,1 +1,2 @@
-print("Hello world!")
+for str in range(1,5,1):
+    print('*'*str)
